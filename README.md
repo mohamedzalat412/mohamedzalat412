@@ -1,111 +1,53 @@
-# Hi, I’m Mohamed Islam Zalat👋
+# Hi, I'm Mohamed Islam Zalat 👋
 
-### **Data Analyst | Business & Operations Analytics**
+### Business Analyst | Turning business problems into clear requirements and practical solutions
 
-I’m a **Computer Science student** with a strong interest in **Data Analytics, Business Intelligence, and Operational Systems**.
+I'm a Computer Science student with a strong interest in Data Analytics, Business Intelligence, and Operational Systems.
 
-I enjoy combining technical skills with real-world business knowledge to transform data and manual processes into **structured systems, actionable insights, and better business decisions**.
+I enjoy combining technical skills with real-world business knowledge to transform data and manual processes into structured systems, actionable insights, and better business decisions.
 
-## 🎓 **Education**
+—
 
-**Faculty of Computers & Information – Tanta University**  
-Bachelor’s Degree in Computer Science  
-**3rd Year Student**
+## Featured Project
 
-## 📜 **Certifications**
+[Timber Management System](https://github.com/mohamedzalat412/Timber-Management-System)
 
-- **Google Data Analytics Professional Certificate**
-- **IBM Data Analytics Professional Certificate**
-- **DataCamp Certifications & Courses**
-- **Currently preparing for Microsoft Power BI (PL-300)**
+A business analysis and product ownership case study. I moved a real timber trading business from paper notebooks and Excel to an integrated web application, using AI-assisted development.
 
-## 🛠️ **Technical Skills**
+- [Live case study](https://mohamedzalat412.github.io/Timber-Management-System/)
+- [Requirements specification](https://github.com/mohamedzalat412/Timber-Management-System/blob/main/docs/SPECIFICATION.md)
 
-### 📊 **Data Analysis**
+—
 
-- **Microsoft Excel**
-- **SQL**
-- **R**
-- Data Cleaning & Validation
-- Exploratory Data Analysis
-- Data Transformation
+## What I Do
 
-### 📈 **Data Visualization & BI**
+- Business process analysis and workflow mapping
+- Requirements, business rules and acceptance criteria
+- Product ownership and phased delivery
+- Data analysis with Excel
+- Directing AI-assisted development
 
-- Excel Dashboards
-- Pivot Tables
-- Data Visualization
-- Business Reporting
-- **Power BI — Learning**
+—
 
-### 💼 **Business & Operations**
+## Education
 
-- Business Analysis
-- Operational Analysis
-- Process Improvement
-- Inventory Management
-- Financial & Cash Flow Tracking
-- Business Performance Analysis
+Computer Science, Faculty of Computers and Information, Tanta University (final year)
 
-### 🔧 **Tools**
+—
 
-- Microsoft Excel
-- RStudio
-- SQL
-- GitHub
-- ChatGPT & AI Tools
+## Certifications
 
-## 📊 **Featured Projects**
+[Data analytics certificates from Google, IBM and Coursera](https://github.com/mohamedzalat412/Certifications)
 
-### 🪵 **Timber Trading Management System**
+—
 
-Designed and developed an **Excel-based ERP-style management system from scratch** for a real-world timber trading business.
+## Currently Developing
 
-The system digitized and connected:
+Business fundamentals and business analysis · Operations and process improvement · Management and project management
 
-- Sales & Receivables
-- Collections
-- Inventory Management
-- Purchases
-- Supplier Payables
-- Expenses & Cash Flow
-- Business Dashboard & Reporting
+—
 
-The project transformed a traditional paper-based workflow into a **structured digital system**, improving data accuracy, operational efficiency, financial tracking, and decision-making.
+## Connect
 
-### 🛒 **E-Commerce Sales & Profitability Analysis**
-
-Performed data analysis on an e-commerce dataset using **R**, focusing on sales performance, profitability, trends, and business insights.
-
-## 📈 **What I Do**
-
-I focus on solving business problems through data by:
-
-- Turning raw data into meaningful insights
-- Building automated reporting systems
-- Improving manual business processes
-- Analyzing operational and financial data
-- Creating dashboards for decision-making
-- Connecting business requirements with technical solutions
-
-## 🚀 **Currently Learning**
-
-- Advanced SQL
-- Power BI & DAX
-- Advanced Data Analysis
-- Business Intelligence
-- Data Visualization
-- AI-assisted Data Analytics
-
-## 🎯 **Career Goal**
-
-My goal is to grow as a **Data Analyst / Business Analyst**, combining strong analytical skills with real-world business understanding to build solutions that create **measurable business value**.
-## 📫 **Let’s Connect**
-
-**GitHub:** [mohamedzalat412](https://github.com/mohamedzalat412)  
-**LinkedIn:** [Mohamed Islam Zalat](https://www.linkedin.com/in/mohamed-islam-zalat-4b81672b6/YOUR_LINKEDIN_URL)  
-**Email:** [mo.islamzalat@gmail.com](mailto:mo.islamzalat@gmail.com)
-
-I’m always open to learning, collaborating, and working on projects involving **Data Analytics, Business Intelligence, and Business Process Improvement**.
-
-⭐ **Thanks for visiting my profile!**
+[LinkedIn](https://www.linkedin.com/in/mohamed-islam-zalat-4b81672b6)
+[Email](mailto:mo.islamzalat@gmail.com)
