@@ -17,7 +17,7 @@ A business analysis and product ownership case study. I moved a real timber trad
 - [Live case study](https://mohamedzalat412.github.io/Timber-Management-System/)
 - [Requirements specification](https://github.com/mohamedzalat412/Timber-Management-System/blob/main/docs/SPECIFICATION.md)
 
-—
+
 
 ## What I Do
 
@@ -27,25 +27,25 @@ A business analysis and product ownership case study. I moved a real timber trad
 - Data analysis with Excel
 - Directing AI-assisted development
 
-—
+
 
 ## Education
 
 Computer Science, Faculty of Computers and Information, Tanta University (final year)
 
-—
+
 
 ## Certifications
 
 [Data analytics certificates from Google, IBM and Coursera](https://github.com/mohamedzalat412/Certifications)
 
-—
+
 
 ## Currently Developing
 
 Business fundamentals and business analysis · Operations and process improvement · Management and project management
 
-—
+
 
 ## Connect
 
