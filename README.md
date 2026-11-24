@@ -6,7 +6,7 @@ I'm a Computer Science student with a strong interest in Data Analytics, Busines
 
 I enjoy combining technical skills with real-world business knowledge to transform data and manual processes into structured systems, actionable insights, and better business decisions.
 
-—
+
 
 ## Featured Project
 
